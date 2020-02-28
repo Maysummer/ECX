@@ -1,0 +1,14 @@
+{
+  "name": "nmesoma",
+  "version": "1.0.0",
+  "description": "first project",
+  "main": "anything.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nmesoma",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^4.0.0"
+  }
+}
