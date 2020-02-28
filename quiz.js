@@ -11,6 +11,6 @@ bcrypt.compare(someOtherPliantextPassword,hash,function(err,result){
     if (result === false) {
       console.log(result)
     }else{
-        console.log('holla')
+        console.log('holla who are you')
     }      
 })
